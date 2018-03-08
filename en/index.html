@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, user-scalable=yes, maximum-scale=1.0, minimum-scale=1.0">
+	<meta name="description" content="
+Fujii ・ Ishiuchi Laboratory - Tokyo Institute of Technology Science and Technology Creation Research Institute Chemistry Life Science Institute Molecular Function Chemistry Area (Life Science and Engineering Life Engineering Course and Life Science and Technology Course)">
+	<title>Fujii ・ Ishiki Laboratory Tokyo Institute of Technology Science and Technology Creation Research Institute Chemistry Life Science Institute Molecular Function Chemistry Area (Life Science and Engineering Life Engineering Course and Life Science and Technology Course)</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="stylesheet" type="text/css" media="all" href="style.css">
+	<!--[if lt IE 9]>
+	<script src="js/html5.js"></script>
+	<script src="js/css3-mediaqueries.js"></script>
+	<![endif]-->
+	<script src="js/jquery1.4.4.min.js"></script>
+	<script src="js/script.js"></script>
+    <script>
+        //共通パーツ読み込み
+        $(function() {
+            $("#header").load("header.html", function(){
+                $(function(){$("nav div.panel").hide();$(".menu").click(function(){$(this).toggleClass("menuOpen").next().slideToggle();});})
+
+            });
+            $("#footer").load("footer.html");
+        });
+	</script>
+</head>
+
+<body>
+
+	<header id="header" role="banner">
+	</header>
+
+	<div id="mainBanner">
+		<div class="inner">
+			<img src="images/banners/mainimg.jpg" width="940" height="300" alt="Tokyo Institute of Technology Fujii ・ Ishiki Laboratory">
+		</div>
+	</div>
+
+	<div id="wrapper">
+		<section id="main">
+			<section class="content">
+				<h3 class="heading">News!</h3>
+				<dl>
+					<dt>April 01, 2017</dt>
+					<dd>Yuta Sasaki received an excellent poster award at the 11th Molecular Science Symposium.</dd>
+					<dt>September 01, 2017</dt>
+					<dd>Doctoral researcher Aude Bouchet has been transferred as Associate professor of the University of Lille 1 (1 'Institut Universitaire de Technologie A de Lille).</dd>
+					<dt>April 01, 2017</dt>
+					<dd>Associate Professor Ishiuchi has taken office.</dd>
+				</dl>
+			</section>
+
+			<section class="content">
+				<h3 class="heading">Update Information</h3>
+				<dl>
+					<dt>January 29, 2018</dt>
+					<dd>List of papers and events updated.</dd>
+					<dt>November 06, 2017</dt>
+					<dd>Introduction, members, research introduction, experiment equipment, paper list, student announcement, event, access updated.</dd>
+					<dt>April 10, 2017</dt>
+					<dd>We updated members, papers list, student presentations, and events</dd>
+					<dt>06 July 2016</dt>
+					<dd>
+Members, list of papers, student presentations, overseas dispatch of students ・ international collaborative research, events updated.</dd>
+					<dt>16th May 2016</dt>
+					<dd>Members, tours, recruitment for students, access has been updated.</dd>
+				</dl>
+			</section>
+		</section>
+	</div>
+
+
+	<footer id="footer">
+
+	</footer>
+
+</body>
+</html>

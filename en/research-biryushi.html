@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, user-scalable=yes, maximum-scale=1.0, minimum-scale=1.0">
+	<meta name="description" content="Particle component analysis - Fujii, Ishiuchi Laboratory - Tokyo Institute of Technology Science and Technology Research Institute Chemistry Life Science Institute Molecular Function Chemistry Area (Life Science and Engineering Life Engineering Course and Life Science and Technology Course)
+">
+	<title>Particle component analysis - Fujii, Ishiuchi Laboratory - Tokyo Institute of Technology Science and Technology Research Institute Chemistry Life Science Institute Molecular Function Chemistry Area (Life Science and Engineering Life Engineering Course and Life Science and Technology Course)
+</title>
+	<meta name="keywords" content="Tokyo Institute of Technology, Tokyo Institute of Technology, Science and Technology Creation Research Institute, Chemistry Life Science Institute, Molecular Function Chemistry Area, Life Sciences Institute, Life Engineering, Life Sciences, Fujii Laboratory, Fujii, Masaaki
+" />
+
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="stylesheet" type="text/css" media="all" href="style.css">
+	<!--[if lt IE 9]>
+	<script src="js/html5.js"></script>
+	<script src="js/css3-mediaqueries.js"></script>
+	<![endif]-->
+	<script src="js/jquery1.4.4.min.js"></script>
+	<script src="js/script.js"></script>
+	<script src="js/jquery.rwdImageMaps.min.js"></script>
+	<script>
+        $(document).ready(function(e) {
+            $("#header").load("header.html", function(){
+                $(function(){$("nav div.panel").hide();$(".menu").click(function(){$(this).toggleClass("menuOpen").next().slideToggle();});})
+
+            });
+            $("#footer").load("footer.html");
+
+            $('#ImageMap').rwdImageMaps();
+        });
+	</script>
+
+</head>
+
+<body>
+
+	<header id="header" role="banner">
+
+	</header>
+
+	<div id="container">
+		<section id="row">
+			<div class="col-md-12 col-lg-8 col-lg-offset-2">
+				<h2 class="heading">Overview
+</h2>
+				<p>
+					Analysis of historical information of each particle is strongly required for grasping the actual condition of contamination of airborne particulate matter (SPM) and to take countermeasures. Therefore, in this study, we propose a method to combine it with a focused ion beam (FIB) method capable of processing / sputtering at nanoscale by using the resonant multiphoton ionization method (REMPI) which can selectively ionize only a specific molecular species even in mixed samples as an ionization means , We are pursuing development aiming at the realization of a single particle hysteresis analyzer that analyzes the composition of the inner and outer shells of SPM particles characteristic of environmental sites and origins of origin. We introduce the situation in the fields related to this development, the fundamental principle of resonant multiphoton ionization, application examples for high sensitivity analysis, and examples of environmental analysis by focused ion beam, and outline the development concept, current situation and ripple effect.
+				</p>
+				<hr>
+				<h2 class="heading">Recent topics and trends in related fields</h2>
+				<p>
+					　Environmental pollutants are extremely complicated mixtures with diverse origins. As an example of atmospheric airborne particulate matter (SPM), SPM discharged together with exhaust gas from automobiles and combustion engines at the time of occurrence are inorganic and organic harmful substances such as heavy metals, polycyclic aromatic compounds, halogen-containing aromatic compounds and nitrated aromatic compounds It contains substances. Thereafter, it is transferred to the human body, water, soil, living environment through accumulation of SPM particles and chemical reaction on the surface of the particles in the atmosphere, etc., accumulated or decomposed. The occurrence of pollutants associated with human activities occurs in all forms of exhaust gas (gas phase), waste water (aqueous phase), solid waste (solid phase), and mass transfer between these phases also occurs. Therefore, in any step of grasping the actual condition of trace amount of environmental pollutants, planning and implementation of occurrence control measures, verification of effect, dynamic analysis, that is, temporal and spatial refinement of contamination analysis, movement and change of particles themselves Analysis of history is strongly required. In order to realize this, only a small amount of sample is required, and a means capable of analyzing quickly with high accuracy and high sensitivity without pretreatment is indispensable. Sampling of a small amount of sample can be completed within a short time regardless of the location, thus allowing time and space precision analysis of contamination analysis and providing unprecedented information. In addition, since the division of labor is adopted as inorganic substances as ICP / MS and organic substances as GC / MS, efficiency is poor, and correlation between heavy metals and harmful organic substances ・ synergistic toxicity etc. occur in real environment I can not get real information on an event. In addition, in order to accurately ascertain the cause of contamination, it is indispensable to have a method of clarifying the occurrence / migration history of characteristic particulates representing the source on a particle basis.
+				</p>
+				<hr>
+
+			</div>
+			<div class="col-md-12 col-lg-8 col-lg-offset-2">
+				<div class="col-md-8">
+					<p>
+						The analysis needs of the above trace environmental pollutants are summarized in the following points
+
+
+						<li>A multicomponent rapid analyzer capable of simultaneous analysis of multiple harmful substances without requiring a very small amount of sample and without pretreatment.
+</li>
+
+						For example, it is a system that can analyze the mg SPM particles that can be collected from the atmosphere in a few minutes and can grasp the overall picture of the environmental field.
+<br>
+
+						<li>Focusing on particles of specific compositions and specific shapes, we can elucidate the whole volume by distinguishing one particle from the surface and the interior, and diagnose particle generation process and floating history.
+</li>
+					　We aim to open up a new dimension of environmental analysis by realizing the analysis system with the new function of the latter.
+
+
+
+					</p>
+				</div>
+
+
+				<div class="col-md-4">
+					<img src="images/research-bi_rireki01.png" width="263" height="160" />
+
+				</div>
+			</div>
+			<div class="col-md-12  col-lg-8 col-lg-offset-2">
+				<p>
+					　Methods for individually analyzing existing environmental particulates include electron probe microanalysis (EPMA) method [1], aerosol mass spectrometry (AMS) method [2], time of flight secondary ion mass spectrometry (TOF - SIMS) Method, etc. have been reported, but all of them are both merit and short, and no historical analysis has been realized at all.
+
+
+					　Since the EPMA method is a non-destructive analysis and the generation region of X rays in a solid is 1 μm or more, the average composition of a sample of 1 μ microns can be easily known and the concentration of suspended particulate matter (SPM) It can be applied to origin analysis. By using EDX as a spectroscope, the measurement time per point can be several minutes short enough, so it is easy to comparatively measure multiple samples such as aging at the same point and simultaneous multipoint analysis. However, since information obtained is only elemental composition, information on organic matter can not be obtained. Also, local analysis can not be performed in a region smaller than 1 μm, and sensitivity is lower than mass spectrometry, so it is difficult to detect extremely minor components for small particles of the order of 0.1 μm, such as diesel exhaust gas particles is there.
+
+
+					　Since aerosol mass spectrometry (AMS) uses mass spectrometry, it can be applied to both inorganic materials and organic materials, and at the same time it is possible to acquire particle size information of particles. An example of real-time particle size measurement and composition analysis of fly ash generated from an incineration facility has been reported. For ionization methods essential for mass spectrometry, electron bombardment methods and laser light are often used. However, in the case of the AMS method, it can be applied only to volatile components of particle constituent substances. Furthermore, it is not possible to distinguish between the surface and the inside of individual particles and analyze them.
+
+				</p>
+
+			</div>
+			<div class="col-md-12  col-lg-8 col-lg-offset-2">
+				<h2 class="heading">The aim of this development</h2>
+				<div class="col-md-8">
+				　If it is possible to analyze both inorganic and organic substances by distinguishing the inside and the outside of one SPM particle as described above, it is possible to clarify the generation history of fine particles and the causal relation between the organic matter formed on the surface and the inner shell inorganic substance . FIB (focused ion beam) is an excellent nanofabrication / analysis method with a spatial resolution of several nm, and it is possible to acquire both surface and internal information by performing cross-sectional microfabrication of one particle of several tens of nanometers (See the previous page photo, particles are fine particles derived from thermal power plant, diameter 30 micrometers).
+
+				</div>
+				<div class="col-md-4">
+					<img src="images/research-bi_rireki02.png" width="263" height="160" />
+				</div>
+				<div class="col-md-8">
+
+				On the other hand, when using FIB alone, a problem is the insufficient sensitivity due to the low secondary ion generation rate and the complication of molecular identification including generation of fragments. Therefore, in this development item, we developed the FIB nano-sampling-REMPI method that achieves high sensitivity and substance selectivity by laser multiphoton resonance ionization of neutral species (atoms / organic molecules) generated by FIB nanosampling, Realize single particle historical analysis device
+				</div>
+				<div class="col-md-4">
+					<img src="images/research-bi_rireki03.png" width="263" height="160" />
+				</div>
+			</div>
+			<div class="col-md-12  col-lg-8 col-lg-offset-2">
+				<h2 class="heading">Status of R & D</h2>
+				<div class="col-md-12">
+				<p>
+					　In this research, it is a basic concept to combine multiphoton ionization (REMPI) method with FIB method, and it is a development team by a specialized manufacturer of interdisciplinary research teams across spectroscopy, analytical chemistry, solid and surface science and high precision vacuum equipment processing Must be constructed. Furthermore, incorporating a company that is a heavy user of environmental analysis and a comprehensive analytical equipment maker specializing in user-friendly systemization of equipment as a result of prototype evaluation and practical application is indispensable, we formed a team that takes this into consideration.
+				</p>
+				</div>
+				<div class="col-md-8">
+					<p>
+						　Development items are<br>
+roughly divided into 1) FIB nanosampling - REMPI method combined with this 2) resonance multiphoton ionization spectroscopy with environmental analysis in mind. The state of neutral particles emitted by ion beam sputtering including focused ion beam (FIB) has not been sufficiently studied so far. Therefore, (1) an FIB nanosampling team that develops a pulse FIB nanosampling apparatus in advance and (2) a SIMS-REMPI method development group that performs REMPI detection of sputtered atoms and molecules, and (3) a laser spectroscopy team To organically work together to develop the FIB - REMPI method smoothly, we are realizing a single - particle historical analysis device. We designed the equipment in FY 2004 and carried out the fabrication of FIB-REMPI equipment and the development of the elemental technology related to it in FY 2005. The FIB-REMPI signal has already been obtained, and this year we are optimizing the elemental technology obtained.
+					</p>
+				</div>
+				<div class="col-md-4">
+					<img src="images/research-bi_rireki04.png" width="263" height="160" />
+				</div>
+			</div>
+
+			<div class="col-md-12  col-lg-8 col-lg-offset-2">
+				<h2 class="heading">Future prospects</h2>
+				A single-particle historical analyzer based on convergent ion beam / laser ionization method developed in this project is an unprecedented solid analyzer which has nanoscale spatial resolution and can measure both organic matter and inorganic matter with high sensitivity. Nanoscale spatial resolution such as semiconductors and iron and steel is required as well as environmental field Analysis of heterogeneous inorganic materials and contribution as an essential device for analysis of materials with nanostructures including organic materials such as liquid crystals, organic thin films, carbon nanotubes etc I will do. The following lists specific possibilities for environmental science and material fields.
+
+				<h3>＜Direct contribution to environmental science＞
+</h3>
+				<p>
+					
+1. It is possible to clarify the formation mechanism such as SPM and the mechanism of generation of secondary particles and to present concrete methods such as sorted collection in waste treatment.
+
+2. Evaluation of harmful substances adhering to fly ash becomes possible, and comprehensive evaluation of highly toxic substances dispersed in gas and solid becomes possible. It also gives basic data on the new recycling method of fly ash particles.
+				</p>
+
+
+				<h3>＜Ripple effect on other fields＞</h3>
+				<p>
+
+				3. By developing highly sensitive analytical techniques with nano-level surface resolution, it is possible to evaluate the interface where the semiconductor device is buried.
+
+4. Evaluation of blended organic matter becomes possible, and promote next-generation polymer development.
+
+5. We will realize the development of an epochal surface analyzer which makes it possible to analyze nano-level highly sensitive impurities such as grain boundary segregation and interfacial segregation of polycrystalline material and clarify the mechanism of development of material physical properties.
+
+6. Quantitative evaluation of heterointerfaces having different chemical structures such as oxide film / semiconductor, oxide film / metal etc. is made possible, and especially by making it possible to quantitatively evaluate the behavior of impurities existing across the interface, Can clarify the effect mechanism of trace elements added to the element.
+				</p>
+				</div>
+
+		</section>
+
+	</div>
+
+	<footer id="footer">
+
+	</footer>
+
+</body>
+</html>
