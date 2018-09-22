@@ -30,6 +30,7 @@ File.open("pub_list_body.html", "w") do |f|
       end
       f.puts '</div>'
       f.puts '<hr>'
+      f.puts '</div>'
       pubCount -= 1
     }
     f.puts '</div>'
