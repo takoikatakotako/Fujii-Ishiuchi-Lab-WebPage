@@ -1,15 +1,38 @@
 [
   {
+    "year": "2019",
+    "contents": [
+      {
+        "title": "Ion-peptide interactions between alkali metal ions and a termini-protected dipeptide; Modeling a portion of the selectivity filter in K+ channels",
+        "author": "Shun-ichi Ishiuchi, Yuta Sasaki, James M. Lisy, and  Masaaki Fujii",
+        "journal": "Physical Chemistry Chemical Physics",
+        "issue": "21(2)",
+        "page": "561-571",
+        "year": "2019",
+        "url": "http://dx.doi.org/10.1039/C8CP05839C"
+      }
+    ]
+  },
+  {
     "year": "2018",
     "contents": [
       {
-        "title":"Entropic effects make a more tightly folded conformer of a β-amino acid less stable: UV-UV hole burning and IR dip spectroscopy of L-β<sup>3</sup>-homotryptophan using a laser desorption supersonic jet technique",
-        "author":"Woon Yong Sohn, Jeong Jin Kim, Myeongwon Jeon, Takuma Aoki, Shun-ichi Ishiuchi, Masaaki Fujii, and Hyuk Kang",
-        "journal":"Physical Chemistry Chemical Physics",
-        "issue":"20(30)",
-        "page":"19979–19986",
-        "year":"2018",
-        "url":"http://dx.doi.org/10.1039/C8CP02106F"
+        "title": "Probing chirality recognition of protonated glutamic acid dimers by gas-phase vibrational spectroscopy and first-principles simulations",
+        "author": "Johanna Klyne, Aude Bouchet, Shun-ichi Ishiuchi, Masaaki Fujii, Markus Schneider, Carsten Baldauf, and Otto Dopfer",
+        "journal": "Physical Chemistry Chemical Physics",
+        "issue": "20(45)",
+        "page": "28452-28464",
+        "year": "2018",
+        "url": "http://dx.doi.org/10.1039/C8CP05855E"
+      },
+      {
+        "title": "Entropic effects make a more tightly folded conformer of a β-amino acid less stable: UV-UV hole burning and IR dip spectroscopy of L-β<sup>3</sup>-homotryptophan using a laser desorption supersonic jet technique",
+        "author": "Woon Yong Sohn, Jeong Jin Kim, Myeongwon Jeon, Takuma Aoki, Shun-ichi Ishiuchi, Masaaki Fujii, and Hyuk Kang",
+        "journal": "Physical Chemistry Chemical Physics",
+        "issue": "20(30)",
+        "page": "19979–19986",
+        "year": "2018",
+        "url": "http://dx.doi.org/10.1039/C8CP02106F"
       },
       {
         "title": "Stereochemistry-dependent structure of hydrogen-bonded protonated dimers: the case of 1-amino-2-indanol",
