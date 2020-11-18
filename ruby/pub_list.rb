@@ -28,6 +28,9 @@ File.open("pub_list_body.html", "w") do |f|
       if list["url"] != "" then
         f.puts '<a href="' + list["url"] + '" target="_blank">Link</a>'
       end
+      if list["message"] != "" then
+        f.puts list["message"]
+      end
       f.puts '</div>'
       f.puts '<hr>'
       f.puts '</div>'

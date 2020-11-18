@@ -4,12 +4,13 @@
      "contents":[
         {
            "title":"Chiral discrimination between tyrosine and β-cyclodextrin revealed by cryogenic ion trap infrared spectroscopy",
-           "author":"<font color=\"red\">Selected as back cover</font><br><font color=\"red\">Selected as 2020 PCCP HOT Articles</font><br>Keisuke Hirata, Yuta Mori, Shun-ichi Ishiuchi, Masaaki Fujii, and Anne Zehnacker",
+           "author":"Keisuke Hirata, Yuta Mori, Shun-ichi Ishiuchi, Masaaki Fujii, and Anne Zehnacker",
            "journal":"Physical Chemistry Chemical Physics",
            "issue":"22(43)",
            "page":"24887-24894",
            "year":"2020",
-           "url":"https://doi.org/10.1039/D0CP02968H"
+           "url":"https://doi.org/10.1039/D0CP02968H",
+           "message": "<br><span style=\"color:red\">Selected as Back cover</span><br><span style=\"color:red\">Selected as 2020 PCCP HOT Articles</span>"
         },
         {
            "title":"Cryogenic Ion Spectroscopy of a Singly Protonated Peptide DYYVVR: Locating Phosphorylation Sites of a Kinase Domain",
@@ -18,7 +19,8 @@
            "issue":"11(17)",
            "page":"7103-7108",
            "year":"2020",
-           "url":"https://doi.org/10.1021/acs.jpclett.0c01802"
+           "url":"https://doi.org/10.1021/acs.jpclett.0c01802",
+           "message": ""
         },
         {
            "title":"Excited-state proton transfer in protonated adrenaline revealed by cryogenic UV photodissociation spectroscopy",
@@ -27,7 +29,8 @@
            "issue":"22(20)",
            "page":"11498-11507",
            "year":"2020",
-           "url":"https://doi.org/10.1039/D0CP01127D"
+           "url":"https://doi.org/10.1039/D0CP01127D",
+           "message": ""
         },
         {
            "title":"Improvement of ionization yield in sputtered neutral mass spectrometry using pulsed infrared and ultraviolet lasers",
@@ -36,7 +39,8 @@
            "issue":"38(3)",
            "page":"034011",
            "year":"2020",
-           "url":"https://doi.org/10.1116/6.0000088"
+           "url":"https://doi.org/10.1116/6.0000088",
+           "message": ""
         },
         {
            "title":"Excited state hydrogen transfer dynamics in phenol–(NH<sub>3</sub>)<sub>2</sub> studied by picosecond UV-near IR-UV time-resolved spectroscopy",
@@ -45,7 +49,8 @@
            "issue":"22(10)",
            "page":"5740-5748",
            "year":"2020",
-           "url":"https://doi.org/10.1039/C9CP06369B"
+           "url":"https://doi.org/10.1039/C9CP06369B",
+           "message": ""
         },
         {
            "title":"Alkali and alkaline earth metal ions complexes with a partial peptide of the selectivity filter in K<sup>+</sup> channels studied by a cold ion trap infrared spectroscopy",
@@ -54,7 +59,8 @@
            "issue":"21(8)",
            "page":"712-724",
            "year":"2020",
-           "url":"https://doi.org/10.1002/cphc.202000033"
+           "url":"https://doi.org/10.1002/cphc.202000033",
+           "message": ""
         }
      ]
   },
@@ -68,7 +74,8 @@
            "issue":"123(32)",
            "page":"6828-6839",
            "year":"2019",
-           "url":"https://doi.org/10.1021/acs.jpca.9b04460"
+           "url":"https://doi.org/10.1021/acs.jpca.9b04460",
+           "message": ""
         },
         {
            "title":"Probing the selectivity of Li<sup>+</sup> and Na<sup>+</sup> cations on noradrenaline at the molecular level",
@@ -77,7 +84,8 @@
            "issue":"217",
            "page":"396-413",
            "year":"2019",
-           "url":"https://doi.org/10.1039/C8FD00186C"
+           "url":"https://doi.org/10.1039/C8FD00186C",
+           "message": ""
         },
         {
            "title":"Can the Partial Peptide SIVSF of the β<sub>2</sub>-Adrenergic Receptor Recognize Chirality of the Epinephrine Neurotransmitter?",
@@ -86,7 +94,8 @@
            "issue":"10(10)",
            "page":"2470-2474",
            "year":"2019",
-           "url":"https://doi.org/10.1021/acs.jpclett.9b00184"
+           "url":"https://doi.org/10.1021/acs.jpclett.9b00184",
+           "message": "<br><span style=\"color:red\">Selected as Supplementary cover image</span>"
         },
         {
            "title":"Ion-peptide interactions between alkali metal ions and a termini-protected dipeptide; Modeling a portion of the selectivity filter in K+ channels",
@@ -95,7 +104,8 @@
            "issue":"21(2)",
            "page":"561-571",
            "year":"2019",
-           "url":"http://dx.doi.org/10.1039/C8CP05839C"
+           "url":"http://dx.doi.org/10.1039/C8CP05839C",
+           "message": ""
         }
      ]
   },
@@ -109,7 +119,8 @@
            "issue":"20(45)",
            "page":"28452-28464",
            "year":"2018",
-           "url":"http://dx.doi.org/10.1039/C8CP05855E"
+           "url":"http://dx.doi.org/10.1039/C8CP05855E",
+           "message": ""
         },
         {
            "title":"Electron-proton transfer mechanism of excited-state hydrogen transfer in phenol–(NH<sub>3</sub>)<sub><i>n</i></sub> (n = 5) studied by delayed ionization detected femtosecond time-resolved NIR spectroscopy",
@@ -118,7 +129,8 @@
            "issue":"515",
            "page":"580-585",
            "year":"2018",
-           "url":"http://dx.doi.org/10.1016/j.chemphys.2018.08.004"
+           "url":"http://dx.doi.org/10.1016/j.chemphys.2018.08.004",
+           "message": ""
         },
         {
            "title":"Entropic effects make a more tightly folded conformer of a β-amino acid less stable: UV-UV hole burning and IR dip spectroscopy of L-β<sup>3</sup>-homotryptophan using a laser desorption supersonic jet technique",
@@ -127,7 +139,8 @@
            "issue":"20(30)",
            "page":"19979–19986",
            "year":"2018",
-           "url":"http://dx.doi.org/10.1039/C8CP02106F"
+           "url":"http://dx.doi.org/10.1039/C8CP02106F",
+           "message": ""
         },
         {
            "title":"Stereochemistry-dependent structure of hydrogen-bonded protonated dimers: the case of 1-amino-2-indanol",
@@ -136,7 +149,8 @@
            "issue":"20(18)",
            "page":"12430–12443",
            "year":"2018",
-           "url":"http://dx.doi.org/10.1039/C8CP00787J"
+           "url":"http://dx.doi.org/10.1039/C8CP00787J",
+           "message": ""
         },
         {
            "title":"Molecular Recognition by a Short Partial Peptide of the Adrenergic Receptor: A Bottom-Up Approach",
@@ -145,7 +159,8 @@
            "issue":"57(20)",
            "page":"5626–5629",
            "year":"2018",
-           "url":"http://dx.doi.org/10.1002/anie.201712976"
+           "url":"http://dx.doi.org/10.1002/anie.201712976",
+           "message": "<br><span style=\"color:red\">Selected as Inside Cover</span>"
         },
         {
            "title":"Bevel depth profiling by high-spatial-resolution sputtered neutral mass spectrometry with laser postionization",
