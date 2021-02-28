@@ -37,6 +37,6 @@ File.open("pub_list_body.html", "w") do |f|
       pubCount -= 1
     }
     f.puts '</div>'
-    f.puts '<div class="right" style="margin-bottom:10px;"><a href="#">このページの先頭へ</a></div>'
+    # f.puts '<div class="right" style="margin-bottom:10px;"><a href="#">このページの先頭へ</a></div>'
   }
 end
