@@ -4,12 +4,9 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, user-scalable=yes, maximum-scale=1.0, minimum-scale=1.0">
-	<meta name="description" content="Particle component analysis - Fujii, Ishiuchi Laboratory - Tokyo Institute of Technology Science and Technology Research Institute Chemistry Life Science Institute Molecular Function Chemistry Area (Life Science and Engineering Life Engineering Course and Life Science and Technology Course)
-">
-	<title>Particle component analysis - Fujii, Ishiuchi Laboratory - Tokyo Institute of Technology Science and Technology Research Institute Chemistry Life Science Institute Molecular Function Chemistry Area (Life Science and Engineering Life Engineering Course and Life Science and Technology Course)
-</title>
-	<meta name="keywords" content="Tokyo Institute of Technology, Tokyo Institute of Technology, Science and Technology Creation Research Institute, Chemistry Life Science Institute, Molecular Function Chemistry Area, Life Sciences Institute, Life Engineering, Life Sciences, Fujii Laboratory, Fujii, Masaaki
-" />
+	<meta name="description" content="微粒子成分分析 - 藤井研究室 - 東京工業大学 科学技術創成研究院 化学生命科学研究所 分子機能化学領域 (生命理工学院 ライフエンジニアリングコース and 生命理工学コース)">
+	<title>微粒子成分分析 - 藤井研究室 - 東京工業大学 科学技術創成研究院 化学生命科学研究所 分子機能化学領域 (生命理工学院 ライフエンジニアリングコース and 生命理工学コース)</title>
+	<meta name="keywords" content="東京工業大学,東工大,科学技術創成研究院,化学生命科学研究所,分子機能化学領域,生命理工学院,ライフエンジニアリング,生命理工学,藤井研究室,藤井,正明" />
 
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="stylesheet" type="text/css" media="all" href="style.css">
@@ -43,15 +40,25 @@
 	<div id="container">
 		<section id="row">
 			<div class="col-md-12 col-lg-8 col-lg-offset-2">
-				<h2 class="heading">Overview
-</h2>
+				<h2 class="heading">概要</h2>
 				<p>
-					Analysis of historical information of each particle is strongly required for grasping the actual condition of contamination of airborne particulate matter (SPM) and to take countermeasures. Therefore, in this study, we propose a method to combine it with a focused ion beam (FIB) method capable of processing / sputtering at nanoscale by using the resonant multiphoton ionization method (REMPI) which can selectively ionize only a specific molecular species even in mixed samples as an ionization means , We are pursuing development aiming at the realization of a single particle hysteresis analyzer that analyzes the composition of the inner and outer shells of SPM particles characteristic of environmental sites and origins of origin. We introduce the situation in the fields related to this development, the fundamental principle of resonant multiphoton ionization, application examples for high sensitivity analysis, and examples of environmental analysis by focused ion beam, and outline the development concept, current situation and ripple effect.
+					　大気浮遊粒子状物質（SPM）の汚染の実態把握と対策のためには個々の粒子が有する履歴情報の解析が強く求められている。
+					そこで本課題では、混在試料中でも特定の分子種のみ選択イオン化できる共鳴多光子イオン化法(REMPI)をイオン化手段とし、
+					ナノスケールでの加工・スパッタリングが可能な収束イオンビーム(FIB)法と融合する独自の着想により、
+					環境場や発生起源に特徴的なSPM粒子の内部と外殻の組成を解析する単一微粒子履歴解析装置の実現を目指して開発を進めている。
+					この開発に関わる分野の状況、基礎となる共鳴多光子イオン化の原理と高感度分析への応用例、及び収束イオンビームによる環境分析の実例を紹介し、
+					開発構想と現状及び波及効果について概説する。
 				</p>
 				<hr>
-				<h2 class="heading">Recent topics and trends in related fields</h2>
+				<h2 class="heading">関連分野の最近の話題・動向</h2>
 				<p>
-					　Environmental pollutants are extremely complicated mixtures with diverse origins. As an example of atmospheric airborne particulate matter (SPM), SPM discharged together with exhaust gas from automobiles and combustion engines at the time of occurrence are inorganic and organic harmful substances such as heavy metals, polycyclic aromatic compounds, halogen-containing aromatic compounds and nitrated aromatic compounds It contains substances. Thereafter, it is transferred to the human body, water, soil, living environment through accumulation of SPM particles and chemical reaction on the surface of the particles in the atmosphere, etc., accumulated or decomposed. The occurrence of pollutants associated with human activities occurs in all forms of exhaust gas (gas phase), waste water (aqueous phase), solid waste (solid phase), and mass transfer between these phases also occurs. Therefore, in any step of grasping the actual condition of trace amount of environmental pollutants, planning and implementation of occurrence control measures, verification of effect, dynamic analysis, that is, temporal and spatial refinement of contamination analysis, movement and change of particles themselves Analysis of history is strongly required. In order to realize this, only a small amount of sample is required, and a means capable of analyzing quickly with high accuracy and high sensitivity without pretreatment is indispensable. Sampling of a small amount of sample can be completed within a short time regardless of the location, thus allowing time and space precision analysis of contamination analysis and providing unprecedented information. In addition, since the division of labor is adopted as inorganic substances as ICP / MS and organic substances as GC / MS, efficiency is poor, and correlation between heavy metals and harmful organic substances ・ synergistic toxicity etc. occur in real environment I can not get real information on an event. In addition, in order to accurately ascertain the cause of contamination, it is indispensable to have a method of clarifying the occurrence / migration history of characteristic particulates representing the source on a particle basis.
+					　環境汚染物質は多様な発生源を有する極めて複雑な混合物である。大気浮遊粒子状物質(SPM)を例とすれば、
+					自動車や燃焼機関から排ガスと共に排出されたSPMは発生時点において重金属、多環芳香族、含ハロゲン芳香族、ニトロ化芳香族といった無機・有機有害物質を含んでいる。その後大気中などにおいてSPM粒子の複合化や粒子表面での化学反応を経て人体若しくは水、土壌、生体環境に移行し、蓄積または分解される。人間活動に伴う汚染物質の発生は排ガス(気相)、排水(水相)、固形廃棄物(固相)のあらゆる形態で起こるほか、これら相間での物質移動も生じる。このため、微量環境汚染物質の実態把握、発生抑制策の立案と実施、効果の検証といった何れのステップにおいても、動態解析、即ち汚染解析の時間的・空間的精密化及び粒子自身の移動・変化履歴の解析が強く求められている。
+					この実現のためには少量の試料しか必要とせず前処理なしで迅速高精度・高感度で分析できる手段が必要不可欠である。
+					少量試料のサンプリングは場所を選ばず短時間で完了するため汚染解析の時間的・空間的精密化を可能とし、従来にない情報を供与する。
+					加えて、従来は無機物はICP/MS、有機物はGC/MSという分業体制が採られているため効率が悪く、
+					しかも重金属類と有害有機物の相関関係・相乗的毒性の発現など実環境で起こっている事象のリアルな情報は得ることができない。
+					また、汚染原因の正確な把握のためには、発生源を代表する特徴的な微粒子の発生・移動履歴を粒子単位で明らかにする方法が不可欠である。
 				</p>
 				<hr>
 
@@ -59,19 +66,15 @@
 			<div class="col-md-12 col-lg-8 col-lg-offset-2">
 				<div class="col-md-8">
 					<p>
-						The analysis needs of the above trace environmental pollutants are summarized in the following points
+						以上の微量環境汚染物質の分析ニーズは次の点に集約される
 
 
-						<li>A multicomponent rapid analyzer capable of simultaneous analysis of multiple harmful substances without requiring a very small amount of sample and without pretreatment.
-</li>
+						<li>極少量の試料しか必要とせず前処理なしで複数の有害物質を同時分析できる多成分迅速分析装置。</li>
 
-						For example, it is a system that can analyze the mg SPM particles that can be collected from the atmosphere in a few minutes and can grasp the overall picture of the environmental field.
-<br>
+						例えば、数分で大気中から捕 集できるmgのSPM粒子を分析して当該環境場の全体像を把握できるシステム。<br>
 
-						<li>Focusing on particles of specific compositions and specific shapes, we can elucidate the whole volume by distinguishing one particle from the surface and the interior, and diagnose particle generation process and floating history.
-</li>
-					　We aim to open up a new dimension of environmental analysis by realizing the analysis system with the new function of the latter.
-
+						<li>特定の組成や特異な形状の粒子に着目し、その粒子１個を表面と内部を区別して全容を解明でき、粒子の生成プロセスや浮遊履歴を診断する単一微粒子履歴解析装置。</li>
+					　我々は後者の新機能をもった分析システム実現により環境分析の新次元を拓くことを目的とする。
 
 
 					</p>
@@ -85,21 +88,20 @@
 			</div>
 			<div class="col-md-12  col-lg-8 col-lg-offset-2">
 				<p>
-					　Methods for individually analyzing existing environmental particulates include electron probe microanalysis (EPMA) method [1], aerosol mass spectrometry (AMS) method [2], time of flight secondary ion mass spectrometry (TOF - SIMS) Method, etc. have been reported, but all of them are both merit and short, and no historical analysis has been realized at all.
+					　既存の環境微粒子を個別に分析する手法としては、電子プローブマイクロアナリシス（EPMA）法[1]、エアロゾル質量分析（AMS）法[2]、飛行時間型二次イオン質量分析法（TOF-SIMS）法などを用いた応用例が報告されているが全て一長一短であり、履歴解析は全く実現されていない。
 
+					　EPMA法は非破壊分析であり、また、固体内でのX線の発生領域が1μm以上であるため、1μ数ミクロンの試料の平均組成を容易に知ることができ浮遊粒子状物質（SPM）の起源解析に適用できる。また分光器としてEDXを用いれば、1点当たりの測定時間も数分?数十分と短く済むため、同一地点の経時変化や同時多地点分析など複数の試料の比較測定が容易に行える。しかしながら、得られる情報は元素組成のみであるため有機物の情報は得られない。また1μmより小さい領域での局所分析はできず、また質量分析と比較して感度が低いため、ディーゼル排ガス粒子など、0.1μmオーダーの小さな粒子に対して極微量成分の検出を行うことは困難である。
 
-					　Since the EPMA method is a non-destructive analysis and the generation region of X rays in a solid is 1 μm or more, the average composition of a sample of 1 μ microns can be easily known and the concentration of suspended particulate matter (SPM) It can be applied to origin analysis. By using EDX as a spectroscope, the measurement time per point can be several minutes short enough, so it is easy to comparatively measure multiple samples such as aging at the same point and simultaneous multipoint analysis. However, since information obtained is only elemental composition, information on organic matter can not be obtained. Also, local analysis can not be performed in a region smaller than 1 μm, and sensitivity is lower than mass spectrometry, so it is difficult to detect extremely minor components for small particles of the order of 0.1 μm, such as diesel exhaust gas particles is there.
+					　エアロゾル質量分析法(AMS)は質量分析を用いるため、無機物・有機物の両方に適用でき、同時に粒子の粒径情報の取得も可能である。焼却施設から発生するフライアッシュをリアルタイムで粒径計測と組成分析を行う例が報告されている。質量分析に必須となるイオン化法には電子衝撃法やレーザー光が用いられる場合が多い。ただし、AMS法の場合、粒子構成物質のうち揮発性のある成分にしか適用できない。さらに個別粒子の表面と内部を区別して分析することはできない。
 
-
-					　Since aerosol mass spectrometry (AMS) uses mass spectrometry, it can be applied to both inorganic materials and organic materials, and at the same time it is possible to acquire particle size information of particles. An example of real-time particle size measurement and composition analysis of fly ash generated from an incineration facility has been reported. For ionization methods essential for mass spectrometry, electron bombardment methods and laser light are often used. However, in the case of the AMS method, it can be applied only to volatile components of particle constituent substances. Furthermore, it is not possible to distinguish between the surface and the inside of individual particles and analyze them.
-
+					　以上のように既存の方法では微粒子の履歴解析装置の実現は困難であり、独自の新発想が不可欠である。
 				</p>
 
 			</div>
 			<div class="col-md-12  col-lg-8 col-lg-offset-2">
-				<h2 class="heading">The aim of this development</h2>
+				<h2 class="heading">本開発の目指すところ</h2>
 				<div class="col-md-8">
-				　If it is possible to analyze both inorganic and organic substances by distinguishing the inside and the outside of one SPM particle as described above, it is possible to clarify the generation history of fine particles and the causal relation between the organic matter formed on the surface and the inner shell inorganic substance . FIB (focused ion beam) is an excellent nanofabrication / analysis method with a spatial resolution of several nm, and it is possible to acquire both surface and internal information by performing cross-sectional microfabrication of one particle of several tens of nanometers (See the previous page photo, particles are fine particles derived from thermal power plant, diameter 30 micrometers).
+				　上述のようにSPM粒子１個の内部と外殻を区別して無機・有機物質双方を分析できれば、微粒子の生成履歴や表面に形成された有機物と内殻の無機成分との因果関係を明らかにできる。FIB (収束イオンビーム)は数nmの空間分解能を有する優れたナノ加工・分析法であり、数10 nmの粒子１個の断面微細加工を行うことで、表面・内部両方の情報を得ることができる（前ページ写真参照、粒子は火力発電所由来の微粒子で、直径30マイクロメートル）。
 
 				</div>
 				<div class="col-md-4">
@@ -107,23 +109,28 @@
 				</div>
 				<div class="col-md-8">
 
-				On the other hand, when using FIB alone, a problem is the insufficient sensitivity due to the low secondary ion generation rate and the complication of molecular identification including generation of fragments. Therefore, in this development item, we developed the FIB nano-sampling-REMPI method that achieves high sensitivity and substance selectivity by laser multiphoton resonance ionization of neutral species (atoms / organic molecules) generated by FIB nanosampling, Realize single particle historical analysis device
+				一方、FIB単独で用いる場合、a)２次イオン発生率が低い事による感度不足、およびb)フラグメントの発生を含む分子識別の煩雑さが問題である。そこで、本開発項目ではFIBナノサンプリングで発生する中性種（原子・有機分子）をレーザー多光子共鳴イオン化することで高感度化と物質選択性を両立するFIBナノサンプリング-REMPI法を開発し、単一微粒子履歴解析装置を実現する
 				</div>
 				<div class="col-md-4">
 					<img src="images/research-bi_rireki03.png" width="263" height="160" />
 				</div>
 			</div>
 			<div class="col-md-12  col-lg-8 col-lg-offset-2">
-				<h2 class="heading">Status of R & D</h2>
+				<h2 class="heading">研究開発の状況</h2>
 				<div class="col-md-12">
 				<p>
-					　In this research, it is a basic concept to combine multiphoton ionization (REMPI) method with FIB method, and it is a development team by a specialized manufacturer of interdisciplinary research teams across spectroscopy, analytical chemistry, solid and surface science and high precision vacuum equipment processing Must be constructed. Furthermore, incorporating a company that is a heavy user of environmental analysis and a comprehensive analytical equipment maker specializing in user-friendly systemization of equipment as a result of prototype evaluation and practical application is indispensable, we formed a team that takes this into consideration.
+					　本研究は多光子イオン化(REMPI)法をＦＩＢ法と融合することが基本構想であり、分光学、分析化学、固体・表面科学にまたがる学際研究チームと高精度真空装置加工の専門メーカーにより開発チームを構成する必要がある。さらに、プロトタイプの評価・実用化を視野に入れると環境分析のヘビーユーザーである企業とユーザーフレンドリーな装置システム化を得意とする総合分析機器メーカーが不可欠であり、これを配慮したチームを結成した。
 				</p>
 				</div>
 				<div class="col-md-8">
 					<p>
-						　Development items are<br>
-roughly divided into 1) FIB nanosampling - REMPI method combined with this 2) resonance multiphoton ionization spectroscopy with environmental analysis in mind. The state of neutral particles emitted by ion beam sputtering including focused ion beam (FIB) has not been sufficiently studied so far. Therefore, (1) an FIB nanosampling team that develops a pulse FIB nanosampling apparatus in advance and (2) a SIMS-REMPI method development group that performs REMPI detection of sputtered atoms and molecules, and (3) a laser spectroscopy team To organically work together to develop the FIB - REMPI method smoothly, we are realizing a single - particle historical analysis device. We designed the equipment in FY 2004 and carried out the fabrication of FIB-REMPI equipment and the development of the elemental technology related to it in FY 2005. The FIB-REMPI signal has already been obtained, and this year we are optimizing the elemental technology obtained.
+						　開発項目は<br>
+
+						１）FIBナノサンプリング-REMPI法およびこれと組み合わせる２）環境分析を念頭に置いた共鳴多光子イオン化分光法の開発に大別される。収束イオンビーム（FIB）を始めとするイオンビームスパッタにより放出される中性粒子の状態はこれまで十分な検討が行なわれていない。
+
+						　そこで（１）パルスFIBナノサンプリング装置の開発を先行して行うFIBナノサンプリング班と（２）スパッタ原子・分子のREMPI検出を行うSIMS-REMPI法開発班を設置し、さらに（３）レーザー分光班と有機的に連携することでFIB-REMPI法を円滑に開発し、単一微粒子の履歴解析装置の実現を計っている。
+
+						平成16年度は装置設計を行い、平成17年度にＦＩＢ-ＲＥＭＰＩ装置製作及びこれに関する要素技術の開発を遂行した。既にＦＩＢ-ＲＥＭＰＩ信号が得られており本年度は得られた要素技術の最適化を行っている。
 					</p>
 				</div>
 				<div class="col-md-4">
@@ -132,29 +139,27 @@ roughly divided into 1) FIB nanosampling - REMPI method combined with this 2) re
 			</div>
 
 			<div class="col-md-12  col-lg-8 col-lg-offset-2">
-				<h2 class="heading">Future prospects</h2>
-				A single-particle historical analyzer based on convergent ion beam / laser ionization method developed in this project is an unprecedented solid analyzer which has nanoscale spatial resolution and can measure both organic matter and inorganic matter with high sensitivity. Nanoscale spatial resolution such as semiconductors and iron and steel is required as well as environmental field Analysis of heterogeneous inorganic materials and contribution as an essential device for analysis of materials with nanostructures including organic materials such as liquid crystals, organic thin films, carbon nanotubes etc I will do. The following lists specific possibilities for environmental science and material fields.
-
-				<h3>＜Direct contribution to environmental science＞
-</h3>
+				<h2 class="heading">今後の展望</h2>
+				本プロジェクトで開発する収束イオンビ-ム/レーザーイオン化法による単一微粒子の履歴解析装置はナノスケール空間分解能を有し、かつ有機物も無機物も高感度に測定できる前例のない固体分析装置である。環境領域はもちろん、半導体、鉄鋼等ナノスケール空間分解能が求められているの不均一無機材料分析や、液晶、有機薄膜、カーボンナノチューブなど有機物を含むナノ構造を有する材料分析にも必須の装置として貢献するであろう。以下、環境科学と材料分野に対する具体的な可能性を挙げる。
+				<h3>＜環境科学への直接的貢献＞</h3>
 				<p>
-					
-1. It is possible to clarify the formation mechanism such as SPM and the mechanism of generation of secondary particles and to present concrete methods such as sorted collection in waste treatment.
+					１．SPMなどの形成メカニズム、二次粒子の生成メカニズムを明らかにでき、ごみ処理における分別回収などの具体的な方法を提示可能となる。
 
-2. Evaluation of harmful substances adhering to fly ash becomes possible, and comprehensive evaluation of highly toxic substances dispersed in gas and solid becomes possible. It also gives basic data on the new recycling method of fly ash particles.
+					２． 飛灰に付着した有害物質の評価が可能となり、ガス、固体に分散した毒性の高い物質の総合評価が可能となる。また、飛灰粒子の新たなリサイクル方法の基礎データを与える。
+
 				</p>
 
 
-				<h3>＜Ripple effect on other fields＞</h3>
+				<h3>＜他分野への波及効果＞</h3>
 				<p>
 
-				3. By developing highly sensitive analytical techniques with nano-level surface resolution, it is possible to evaluate the interface where the semiconductor device is buried.
+				３．ナノレベル面分解能を持つ高感度分析技術の開発により、半導体デバイスの埋もれた界面の評価が可能となる。
 
-4. Evaluation of blended organic matter becomes possible, and promote next-generation polymer development.
+				４．ブレンドされた有機物の評価が可能となり、次世代のポリマー開発を促進する。
 
-5. We will realize the development of an epochal surface analyzer which makes it possible to analyze nano-level highly sensitive impurities such as grain boundary segregation and interfacial segregation of polycrystalline material and clarify the mechanism of development of material physical properties.
+				５．多結晶材料の粒界偏析、界面偏析などのナノレベル高感度不純物解析を可能とし、材料物性の発現メカニズムを明らかにする画期的な表面分析装置の開発を実現する。
 
-6. Quantitative evaluation of heterointerfaces having different chemical structures such as oxide film / semiconductor, oxide film / metal etc. is made possible, and especially by making it possible to quantitatively evaluate the behavior of impurities existing across the interface, Can clarify the effect mechanism of trace elements added to the element.
+				６．酸化膜／半導体、酸化膜／金属などの異なる化学構造を有するヘテロ界面の定量的な評価を可能とし、特に界面を挟んで存在する不純物の挙動の定量的評価を可能とすることで、材料中に添加する極微量元素の効果機構を明確化できる。
 				</p>
 				</div>
 
