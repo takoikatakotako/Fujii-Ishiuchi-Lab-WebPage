@@ -3,14 +3,24 @@
       "year":"2021",
       "contents":[
          {
-            "title":"Rethinking Ion Trasnport by Ionophores Experimental and Computational Investigation of Single Water Hydration in Valinomycin-K<sup>+</sup> Complexes",
+            "title":"Revealing the role of excited state proton transfer (ESPT) in excited state hydrogen transfer (ESHT): systematic study in phenol?(NH<sub>3</sub>)<sub><i>n</i></sub> clusters",
+            "author":"Christophe Jouvet, Mitsuhiko Miyazaki, and Masaaki Fujii",
+            "journal":"Chemical Science",
+            "issue":"12(11)",
+            "page":"3836-3856",
+            "year":"2021",
+            "url":"https://doi.org/10.1039/D0SC06877B",
+            "message": "<br><span style=\"color:red\">Selected as Inside Back Cover</span><br>"
+         },
+         {
+            "title":"Rethinking Ion Transport by Ionophores: Experimental and Computational Investigation of Single Water Hydration in Valinomycin-K<sup>+</sup> Complexes",
             "author":"Eiko Sato, Keisuke Hirata, James M. Lisy, Shun-ichi Ishiuchi, and Masaaki Fujii",
-            "journal":"Physical Chemistry Chemical Physics",
+            "journal":"The Journal of Physical Chemistry Letters",
             "issue":"12(6)",
             "page":"1754-1758",
             "year":"2021",
             "url":"https://doi.org/10.1039/D0CP02968H",
-            "message":"<br><span style=\"color:red\">Selected as supplementary Cover</span>"
+            "message": "<br><span style=\"color:red\">Selected as Supplementary Cover</span><br>"
          }
       ]
    },
