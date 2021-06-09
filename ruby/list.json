@@ -3,7 +3,27 @@
       "year":"2021",
       "contents":[
          {
-            "title":"Revealing the role of excited state proton transfer (ESPT) in excited state hydrogen transfer (ESHT): systematic study in phenol?(NH<sub>3</sub>)<sub><i>n</i></sub> clusters",
+            "title":"Potassium and Sodium Ions Complexes with a Partial Peptide of the Selectivity Filter in K<sup>+</sup> Channels Studied by Cold Ion Trap Infrared Spectroscopy: Effect of Hydration",
+            "author":"Takumi Negoro, Keisuke Hirata, James M. Lisy, Shun-ichi Ishiuchi, and Masaaki Fujii",
+            "journal":"Physical Chemistry Chemical Physics",
+            "issue":"23(21)",
+            "page":"12045-12050",
+            "year":"2021",
+            "url":"https://doi.org/10.1039/D1CP00936B",
+            "message": "<br><span style=\"color:red\">Selected as Back Cover</span><br>"
+         },
+         {
+            "title":"Cryogenic ion spectroscopy of adenine complexes containing alkali metal cations",
+            "author":"Han Jun Eun, Shun-ich Ishiuchi, Ji Young Baek, Seulgi Lee, Jiyoung Heo, Masaaki Fujii, and Nam Joon Kim",
+            "journal":"Physical Chemistry Chemical Physics",
+            "issue":"23(11)",
+            "page":"6783-6790",
+            "year":"2021",
+            "url":"https://doi.org/10.1039/D1CP00312G",
+            "message": ""
+         },
+         {
+            "title":"Revealing the role of excited state proton transfer (ESPT) in excited state hydrogen transfer (ESHT): systematic study in phenol-(NH<sub>3</sub>)<sub><i>n</i></sub> clusters",
             "author":"Christophe Jouvet, Mitsuhiko Miyazaki, and Masaaki Fujii",
             "journal":"Chemical Science",
             "issue":"12(11)",
@@ -85,7 +105,7 @@
             "page":"712-724",
             "year":"2020",
             "url":"https://doi.org/10.1002/cphc.202000033",
-            "message":""
+            "message": "<br><span style=\"color:red\">Selected as Front Cover</span><br>"
          }
       ]
    },
