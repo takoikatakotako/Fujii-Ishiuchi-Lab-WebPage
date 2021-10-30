@@ -8,9 +8,8 @@
   <component name="ChangeListManager">
     <list default="true" id="244a3451-c50b-4516-b92b-64530c08aac5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/pub_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby/list.json" beforeDir="false" afterPath="$PROJECT_DIR$/ruby/list.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ruby/pub_list_body.html" beforeDir="false" afterPath="$PROJECT_DIR$/ruby/pub_list_body.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pub_list_s.html" beforeDir="false" afterPath="$PROJECT_DIR$/pub_list_s.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
