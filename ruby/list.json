@@ -3,6 +3,26 @@
       "year":"2021",
       "contents":[
          {
+            "title":"Isomer-selective spectroscopy and dynamics of phenol-Ar<sub><i>n</i></sub>(<sub><i>n</i></sub> ≤ 5) clusters",
+            "author":"Mitsuhiko Miyazaki, Yuri Sakata, Megumi Ono, Remina Otsuka, Otto Dopfer, and Masaaki Fujii",
+            "journal":"The Journal of Physical Chemistry A",
+            "issue":"125(46)",
+            "page":"9969-9981",
+            "year":"2021",
+            "url":"https://doi.org/10.1021/acs.jpca.1c04815",
+            "message": "<br><span style=\"color:red\">Selected as cover</span><br>"
+         },
+         {
+            "title":"Double Ion Trap Laser Spectroscopy of Alkali Metal Ion Complexes with a Partial Peptide of the Selectivity Filter in K<sup>+</sup> Channels─Temperature Effect and Barrier for Conformational Conversions",
+            "author":"Yukina Suzuki, Keisuke Hirata, James M. Lisy, Shun-ichi Ishiuchi, and Masaaki Fujii",
+            "journal":"The Journal of Physical Chemistry A",
+            "issue":"125(44)",
+            "page":"9609-9618",
+            "year":"2021",
+            "url":"https://doi.org/10.1021/acs.jpca.1c06440",
+            "message": "<br><span style=\"color:red\">Selected as cover</span><br>"
+         },
+         {
             "title":"Hydration-controlled excited-state relaxation in protonated dopamine studied by cryogenic ion spectroscopy",
             "author":"Keisuke Hirata, Ken-ichi Kasai, Gilles Grégoire, Shun-ichi Ishiuchi, and Masaaki Fujii",
             "journal":"The Journal of Chemical Physics",
@@ -11,6 +31,16 @@
             "year":"2021",
             "url":"https://doi.org/10.1063/5.0066919",
             "message": "<br><span style=\"color:red\">Selected as Editor's Pick</span><br>"
+         },
+         {
+            "title":"Distribution of trace impurities in microvolumes and analysis of concentration using laser sputtered neutral mass spectrometry",
+            "author":"Haruko Akutsu, Reiko Saito, Jun Asakawa, Kei Kiyokawa, Masato Morita, Tetsuo Sakamoto, and Masaaki Fujii",
+            "journal":"The Journal of Vacuum Science & Technology B",
+            "issue":"39(6)",
+            "page":"064002",
+            "year":"2021",
+            "url":"https://doi.org/10.1116/6.0001244",
+            "message": ""
          },
          {
             "title":"Potassium and Sodium Ions Complexes with a Partial Peptide of the Selectivity Filter in K<sup>+</sup> Channels Studied by Cold Ion Trap Infrared Spectroscopy: Effect of Hydration",

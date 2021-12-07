@@ -7,8 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="244a3451-c50b-4516-b92b-64530c08aac5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pub_list_s.html" beforeDir="false" afterPath="$PROJECT_DIR$/pub_list_s.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pub_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/pub_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby/list.json" beforeDir="false" afterPath="$PROJECT_DIR$/ruby/list.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruby/pub_list_body.html" beforeDir="false" afterPath="$PROJECT_DIR$/ruby/pub_list_body.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -217,6 +218,7 @@
       <workItem from="1569937549439" duration="1325000" />
       <workItem from="1576079249734" duration="894000" />
       <workItem from="1636220993640" duration="479000" />
+      <workItem from="1638894559103" duration="345000" />
     </task>
     <servers />
   </component>
