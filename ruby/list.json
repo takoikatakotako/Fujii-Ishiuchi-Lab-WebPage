@@ -1,5 +1,40 @@
 [
    {
+      "year":"2022",
+      "contents":[
+         {
+            "title":"Excited state dynamics of protonated dopamine: Hydration and conformation effects",
+            "author":"Keisuke Hirata, Ken-ichi Kasai, Koki Yoshizawa, Gilles Grégoire, Shun-ichi Ishiuchi, and Masaaki Fujii",
+            "journal":"Physical Chemistry Chemical Physics",
+            "issue":"",
+            "page":"",
+            "year":"2022",
+            "url":"https://doi.org/10.1039/D2CP00543C",
+            "message": ""
+         },
+         {
+            "title":"Collision-assisted stripping for determination of microsolvation-dependent protonation sites in hydrated clusters by cryogenic ion trap infrared spectroscopy: the case of benzocaineH<sup>+</sup>(H<sub>2</sub>O)<sub><i>n</i></sub>",
+            "author":"Keisuke Hirata, Fuad Haddad, Otto Dopfer, Shun-ichi Ishiuchi, and Masaaki Fujii",
+            "journal":"Physical Chemistry Chemical Physics",
+            "issue":"24(10)",
+            "page":"5774-5779",
+            "year":"2022",
+            "url":"https://doi.org/10.1039/D1CP05762F",
+            "message": "<br><span style=\"color:red\">Selected as 2022 PCCP HOT Articles</span><br>"
+         },
+         {
+            "title":"Gas phase protonated nicotine is a mixture of pyridine- and pyrrolidine-protonated conformers: implications for its native structure in the nicotinic acetylcholine receptor",
+            "author":"Naoya Takeda, Keisuke Hirata, Kazuya Tsuruta, Garrett D. Santis, Sotiris S. Xantheas, Shun-ichi Ishiuchi, and Masaaki Fujii",
+            "journal":"Physical Chemistry Chemical Physics",
+            "issue":"24(10)",
+            "page":"5786-5793",
+            "year":"2022",
+            "url":"https://doi.org/10.1039/D1CP05175J",
+            "message": "<br><span style=\"color:red\">Selected as Front Cover</span><br>"
+         }
+      ]
+   },
+   {
       "year":"2021",
       "contents":[
          {
@@ -10,7 +45,7 @@
             "page":"9969-9981",
             "year":"2021",
             "url":"https://doi.org/10.1021/acs.jpca.1c04815",
-            "message": "<br><span style=\"color:red\">Selected as cover</span><br>"
+            "message": "<br><span style=\"color:red\">Selected as Back Cover</span><br>"
          },
          {
             "title":"Double Ion Trap Laser Spectroscopy of Alkali Metal Ion Complexes with a Partial Peptide of the Selectivity Filter in K<sup>+</sup> Channels─Temperature Effect and Barrier for Conformational Conversions",
@@ -20,7 +55,7 @@
             "page":"9609-9618",
             "year":"2021",
             "url":"https://doi.org/10.1021/acs.jpca.1c06440",
-            "message": "<br><span style=\"color:red\">Selected as cover</span><br>"
+            "message": "<br><span style=\"color:red\">Selected as Front Cover</span><br>"
          },
          {
             "title":"Hydration-controlled excited-state relaxation in protonated dopamine studied by cryogenic ion spectroscopy",
@@ -30,7 +65,7 @@
             "page":"151101",
             "year":"2021",
             "url":"https://doi.org/10.1063/5.0066919",
-            "message": "<br><span style=\"color:red\">Selected as Editor's Pick</span><br>"
+            "message": "<br><span style=\"color:red\">Selected as Editor's pick</span><br><span style=\"color:red\">Selected as 2021 JCP Editor's Choice</span>"
          },
          {
             "title":"Distribution of trace impurities in microvolumes and analysis of concentration using laser sputtered neutral mass spectrometry",
@@ -79,7 +114,7 @@
             "issue":"12(6)",
             "page":"1754-1758",
             "year":"2021",
-            "url":"https://doi.org/10.1039/D0CP02968H",
+            "url":"https://doi.org/10.1021/acs.jpclett.0c03372",
             "message": "<br><span style=\"color:red\">Selected as Supplementary Cover</span><br>"
          }
       ]
