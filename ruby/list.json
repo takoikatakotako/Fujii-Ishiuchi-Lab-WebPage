@@ -3,14 +3,24 @@
       "year":"2022",
       "contents":[
          {
+            "title":"Stepwise dissociation of ion pairs by water molecules: cation-dependent separation mechanisms between carboxylate and alkali-earth metal ions",
+            "author":"Jeremy Donon, Jean-Xavier Bardaud, Varérie Brenner, Shun-ichi Ishiuchi, Masaaki Fujii, and Eric Gloaguen",
+            "journal":"Physical Chemistry Chemical Physics",
+            "issue":"24(20)",
+            "page":"12121-12125",
+            "year":"2022",
+            "url":"https://doi.org/10.1039/D2CP01158A",
+            "message": "<br><span style=\"color:red\">Selected as 2022 PCCP HOT Articles</span><br>"
+         },
+         {
             "title":"Excited state dynamics of protonated dopamine: Hydration and conformation effects",
             "author":"Keisuke Hirata, Ken-ichi Kasai, Koki Yoshizawa, Gilles Grégoire, Shun-ichi Ishiuchi, and Masaaki Fujii",
             "journal":"Physical Chemistry Chemical Physics",
-            "issue":"",
-            "page":"",
+            "issue":"24(18)",
+            "page":"10737-10744",
             "year":"2022",
             "url":"https://doi.org/10.1039/D2CP00543C",
-            "message": ""
+            "message": "<br><span style=\"color:red\">Selected as Back Cover</span><br>"
          },
          {
             "title":"Collision-assisted stripping for determination of microsolvation-dependent protonation sites in hydrated clusters by cryogenic ion trap infrared spectroscopy: the case of benzocaineH<sup>+</sup>(H<sub>2</sub>O)<sub><i>n</i></sub>",
